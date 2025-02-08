@@ -21,7 +21,7 @@ Association for Computational Linguistics
 ## Volume: 
 Proceedings of the Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP), the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal) -- <b> (Pages: 259–264)</b>
 
-<b> Date of Publication: </b> 31st January, 2025
+<b> Date of Publication: </b> January, 2025
 
 <b> Pdf URL: </b> https://aclanthology.org/2025.finnlp-1.28.pdf
 
